@@ -1,0 +1,79 @@
+Array DevUpdates = 
+[
+  {
+    string Notes = "Version 1.4.2 released.",
+    string Date = "October 31, 2018",
+    string Name = "Notes15.txt",
+  },
+  {
+    string Notes = "Version 1.4.0 released.",
+    string Date = "August 16, 2018",
+    string Name = "Notes14.txt",
+  },
+  {
+    string Notes = "Version 1.3.6 released.",
+    string Date = "June 12, 2018",
+    string Name = "Notes13.txt",
+  },
+  {
+    string Notes = "Version 1.3.5 released.",
+    string Date = "May 29, 2018",
+    string Name = "Notes12.txt",
+  },
+  {
+    string Notes = "Version 1.3.2 released.",
+    string Date = "April 16, 2018",
+    string Name = "Notes11.txt",
+  },
+  {
+    string Notes = "Version 1.3.1 released.",
+    string Date = "April 9, 2018",
+    string Name = "Notes10.txt",
+  },
+  {
+    string Notes = "Version 1.3.0 released.",
+    string Date = "March 23, 2018",
+    string Name = "Notes9.txt",
+  },
+  {
+    string Notes = "Version 1.2.4 released.",
+    string Date = "March 5, 2018",
+    string Name = "Notes8.txt",
+  },
+  {
+    string Notes = "Version 1.2.3 released.",
+    string Date = "February 15, 2018",
+    string Name = "Notes7.txt",
+  },
+  {
+    string Notes = "Version 1.2.2 released.",
+    string Date = "January 25, 2018",
+    string Name = "Notes6.txt",
+  },
+  {
+    string Notes = "Version 1.2.0 released.",
+    string Date = "December 12, 2017",
+    string Name = "Notes5.txt",
+  },
+  {
+    string Notes = "New version of Zero released for ProjectFun.",
+    string Date = "May 24, 2016",
+    string Name = "Notes4.txt",
+  },
+  {
+    string Notes = "New version of Zero released.
+Should fix non-determinism issues in physics.",
+    string Date = "September 6, 2015",
+    string Name = "Notes3.txt",
+  },
+  {
+    string Notes = "New version released for ProjectFun.",
+    string Date = "July 6, 2015",
+    string Name = "Notes2.txt",
+  },
+  {
+    string Notes = "Zero Launcher is released!",
+    string Date = "May 26, 2015",
+    string Name = "Notes1.txt",
+  },
+],

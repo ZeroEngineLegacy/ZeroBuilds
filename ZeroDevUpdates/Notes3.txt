@@ -1,0 +1,2 @@
+New version of Zero released.
+Should fix non-determinism issues in physics.
