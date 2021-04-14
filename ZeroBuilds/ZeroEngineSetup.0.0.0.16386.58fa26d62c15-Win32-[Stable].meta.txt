@@ -1,0 +1,13 @@
+{
+  "BuildId": "0.0.0.16386",
+  "ChangeSet": "58fa26d62c15ca6845ad1f5b99f94c431bdfb069",
+  "notesurl": "https://zerobuilds.s3.us-west-2.amazonaws.com/ZeroEngineSetup.0.0.0.16386.58fa26d62c15-Win32-%5BStable%5D.notes.txt",
+  "RevisionId": "16386",
+  "PatchVersion": "0",
+  "Platform": "Win32",
+  "Tags": "Legacy,Stable,ProjectFun2017",
+  "ChangeSetDate": "2017-04-20",
+  "MajorVersion": "0",
+  "ShortChangeSet": "58fa26d62c15",
+  "MinorVersion": "0"
+}

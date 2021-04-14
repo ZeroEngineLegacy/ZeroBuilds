@@ -1,0 +1,12 @@
+{
+  "BuildId": "0.0.0.15177",
+  "ChangeSet": "9414efb28b936cc3b656fd93a369f0962de574f3",
+  "RevisionId": "15177",
+  "PatchVersion": "0",
+  "Platform": "Win32",
+  "Tags": "Legacy,Develop",
+  "ChangeSetDate": "2017-01-19",
+  "MajorVersion": "0",
+  "ShortChangeSet": "9414efb28b93",
+  "MinorVersion": "0"
+}

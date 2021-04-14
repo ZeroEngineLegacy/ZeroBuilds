@@ -1,0 +1,13 @@
+{
+  "BuildId": "0.0.0.15749",
+  "ChangeSet": "6c4be6b79571f625e055a1eff18661a83e43e1ad",
+  "notesurl": "https://zerobuilds.s3.us-west-2.amazonaws.com/ZeroEngineSetup.0.0.0.15749.6c4be6b79571-Win32-%5BStable%5D.notes.txt",
+  "RevisionId": "15749",
+  "PatchVersion": "0",
+  "Platform": "Win32",
+  "Tags": "Legacy,Stable",
+  "ChangeSetDate": "2017-03-10",
+  "MajorVersion": "0",
+  "ShortChangeSet": "6c4be6b79571",
+  "MinorVersion": "0"
+}

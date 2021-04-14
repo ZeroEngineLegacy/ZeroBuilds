@@ -1,0 +1,4 @@
+
+Fixed
+=================
+ * Fixed object store bug with getting names

@@ -1,0 +1,12 @@
+{
+  "BuildId": "0.0.0.14776",
+  "ChangeSet": "fae60499e3ada5d314a0e769fb718970b11a5c51",
+  "RevisionId": "14776",
+  "PatchVersion": "0",
+  "Platform": "Win32",
+  "Tags": "Legacy,Develop",
+  "ChangeSetDate": "2016-11-17",
+  "MajorVersion": "0",
+  "ShortChangeSet": "fae60499e3ad",
+  "MinorVersion": "0"
+}
