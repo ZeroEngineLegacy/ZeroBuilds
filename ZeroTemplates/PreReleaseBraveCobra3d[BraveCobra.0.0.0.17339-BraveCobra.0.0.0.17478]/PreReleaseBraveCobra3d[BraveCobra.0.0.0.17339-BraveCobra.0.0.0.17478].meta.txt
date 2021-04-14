@@ -1,0 +1,13 @@
+{
+  "Date": "7/7/2017",
+  "SKU": "PreReleaseBraveCobra3d",
+  "Tags": "",
+  "TemplateFileName": "PreReleaseBraveCobra3d[BraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478].zerotemplate",
+  "TemplatePath": "",
+  "Author": "DigiPen USA Corporation",
+  "Description": "A template project for 3d games.",
+  "IconUrl": "https://zerotemplates.s3.us-west-2.amazonaws.com/PreReleaseBraveCobra3d%5BBraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478%5D/PreReleaseBraveCobra3d%5BBraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478%5D.icon.png",
+  "DisplayName": "EMPTY 3D\\nPROJECT",
+  "SortPriority": "0.0",
+  "VersionId": "BraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478"
+}

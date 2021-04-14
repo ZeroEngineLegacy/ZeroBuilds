@@ -1,0 +1,308 @@
+[Version:1]
+Cog
+{
+  Hierarchy
+  {
+    Cog 
+    {
+      ZeroTemplate 
+      {
+        var Key = "BraveCobra3d[BraveCobra.0-BraveCobra.0.0.0.15123]/BraveCobra3d[BraveCobra.0-BraveCobra.0.0.0.15123].zerotemplate"
+        var Date = "3/30/2015"
+        var SKU = "BraveCobra3d"
+        var Tags = ""
+        var TemplateFileName = "BraveCobra3d[BraveCobra.0-BraveCobra.0.0.0.15123].zerotemplate"
+        var TemplatePath = "BraveCobra3d[BraveCobra.0-BraveCobra.0.0.0.15123]"
+        var Author = "DigiPen USA Corporation"
+        var Description = "A template project for 3d games."
+        var IconUrl = "BraveCobra3d[BraveCobra.0-BraveCobra.0.0.0.15123].icon.png"
+        var DisplayName = "BRAVECOBRA\nPROJECT"
+        var SortPriority = "0.0"
+        var VersionId = "BraveCobra.0-BraveCobra.0.0.0.15123"
+        var EffectiveIconUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/BraveCobra3d%5BBraveCobra.0-BraveCobra.0.0.0.15123%5D/BraveCobra3d%5BBraveCobra.0-BraveCobra.0.0.0.15123%5D.icon.png"
+        var EffectiveTemplateUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/BraveCobra3d%5BBraveCobra.0-BraveCobra.0.0.0.15123%5D/BraveCobra3d%5BBraveCobra.0-BraveCobra.0.0.0.15123%5D.zerotemplate"
+      }
+    }
+    Cog 
+    {
+      ZeroTemplate 
+      {
+        var Key = "BraveCobra3d[BraveCobra.0.0.0.15136-BraveCobra.0.0.0.15428]/BraveCobra3d[BraveCobra.0.0.0.15136-BraveCobra.0.0.0.15428].zerotemplate"
+        var Date = "3/30/2015"
+        var SKU = "BraveCobra3d"
+        var Tags = ""
+        var TemplateFileName = "BraveCobra3d[BraveCobra.0.0.0.15136-BraveCobra.0.0.0.15428].zerotemplate"
+        var TemplatePath = "BraveCobra3d[BraveCobra.0.0.0.15136-BraveCobra.0.0.0.15428]"
+        var Author = "DigiPen USA Corporation"
+        var Description = "A template project for 3d games."
+        var IconUrl = "BraveCobra3d[BraveCobra.0.0.0.15136-BraveCobra.0.0.0.15428].icon.png"
+        var DisplayName = "BRAVECOBRA\nPROJECT"
+        var SortPriority = "0.0"
+        var VersionId = "BraveCobra.0.0.0.15136-BraveCobra.0.0.0.15428"
+        var EffectiveIconUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/BraveCobra3d%5BBraveCobra.0.0.0.15136-BraveCobra.0.0.0.15428%5D/BraveCobra3d%5BBraveCobra.0.0.0.15136-BraveCobra.0.0.0.15428%5D.icon.png"
+        var EffectiveTemplateUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/BraveCobra3d%5BBraveCobra.0.0.0.15136-BraveCobra.0.0.0.15428%5D/BraveCobra3d%5BBraveCobra.0.0.0.15136-BraveCobra.0.0.0.15428%5D.zerotemplate"
+      }
+    }
+    Cog 
+    {
+      ZeroTemplate 
+      {
+        var Key = "BraveCobra3d[BraveCobra.0.0.0.15430-BraveCobra.0.0.0.16641]/BraveCobra3d[BraveCobra.0.0.0.15430-BraveCobra.0.0.0.16641].zerotemplate"
+        var Date = "3/30/2015"
+        var SKU = "BraveCobra3d"
+        var Tags = ""
+        var TemplateFileName = "BraveCobra3d[BraveCobra.0.0.0.15430-BraveCobra.0.0.0.16641].zerotemplate"
+        var TemplatePath = "BraveCobra3d[BraveCobra.0.0.0.15430-BraveCobra.0.0.0.16641]"
+        var Author = "DigiPen USA Corporation"
+        var Description = "A template project for 3d games."
+        var IconUrl = "BraveCobra3d[BraveCobra.0.0.0.15430-BraveCobra.0.0.0.16641].icon.png"
+        var DisplayName = "BRAVECOBRA\nPROJECT"
+        var SortPriority = "0.0"
+        var VersionId = "BraveCobra.0.0.0.15430-BraveCobra.0.0.0.16641"
+        var EffectiveIconUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/BraveCobra3d%5BBraveCobra.0.0.0.15430-BraveCobra.0.0.0.16641%5D/BraveCobra3d%5BBraveCobra.0.0.0.15430-BraveCobra.0.0.0.16641%5D.icon.png"
+        var EffectiveTemplateUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/BraveCobra3d%5BBraveCobra.0.0.0.15430-BraveCobra.0.0.0.16641%5D/BraveCobra3d%5BBraveCobra.0.0.0.15430-BraveCobra.0.0.0.16641%5D.zerotemplate"
+      }
+    }
+    Cog 
+    {
+      ZeroTemplate 
+      {
+        var Key = "BraveCobra3d[BraveCobra.0.0.0.16642-BraveCobra.0.0.0.17294]/BraveCobra3d[BraveCobra.0.0.0.16642-BraveCobra.0.0.0.17294].zerotemplate"
+        var Date = "3/30/2015"
+        var SKU = "BraveCobra3d"
+        var Tags = ""
+        var TemplateFileName = "BraveCobra3d[BraveCobra.0.0.0.16642-BraveCobra.0.0.0.17294].zerotemplate"
+        var TemplatePath = "BraveCobra3d[BraveCobra.0.0.0.16642-BraveCobra.0.0.0.17294]"
+        var Author = "DigiPen USA Corporation"
+        var Description = "A template project for 3d games."
+        var IconUrl = "BraveCobra3d[BraveCobra.0.0.0.16642-BraveCobra.0.0.0.17294].icon.png"
+        var DisplayName = "BRAVECOBRA\nPROJECT"
+        var SortPriority = "0.0"
+        var VersionId = "BraveCobra.0.0.0.16642-BraveCobra.0.0.0.17294"
+        var EffectiveIconUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/BraveCobra3d%5BBraveCobra.0.0.0.16642-BraveCobra.0.0.0.17294%5D/BraveCobra3d%5BBraveCobra.0.0.0.16642-BraveCobra.0.0.0.17294%5D.icon.png"
+        var EffectiveTemplateUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/BraveCobra3d%5BBraveCobra.0.0.0.16642-BraveCobra.0.0.0.17294%5D/BraveCobra3d%5BBraveCobra.0.0.0.16642-BraveCobra.0.0.0.17294%5D.zerotemplate"
+      }
+    }
+    Cog 
+    {
+      ZeroTemplate 
+      {
+        var Key = "NetworkTemplate[1.0.0]/NetworkTemplate[1.0.0].zerotemplate"
+        var Date = "8/14/2017"
+        var SKU = "NetworkTemplate"
+        var Tags = ""
+        var TemplateFileName = "NetworkTemplate[1.0.0].zerotemplate"
+        var TemplatePath = "NetworkTemplate[1.0.0]"
+        var Author = "DigiPen USA Corporation"
+        var Description = "A template project for networked games."
+        var IconUrl = "NetworkTemplate[1.0.0].icon.png"
+        var DisplayName = "NETWORKED\nPROJECT"
+        var SortPriority = "0.0"
+        var VersionId = "1.0.0"
+        var EffectiveIconUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/NetworkTemplate%5B1.0.0%5D/NetworkTemplate%5B1.0.0%5D.icon.png"
+        var EffectiveTemplateUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/NetworkTemplate%5B1.0.0%5D/NetworkTemplate%5B1.0.0%5D.zerotemplate"
+      }
+    }
+    Cog 
+    {
+      ZeroTemplate 
+      {
+        var Key = "PreReleaseBraveCobra2d[BraveCobra.0.0.0.17295-BraveCobra.0.0.0.17338]/PreReleaseBraveCobra2d[BraveCobra.0.0.0.17295-BraveCobra.0.0.0.17338].zerotemplate"
+        var Date = "7/7/2017"
+        var SKU = "PreReleaseBraveCobra2d"
+        var Tags = ""
+        var TemplateFileName = "PreReleaseBraveCobra2d[BraveCobra.0.0.0.17295-BraveCobra.0.0.0.17338].zerotemplate"
+        var TemplatePath = "PreReleaseBraveCobra2d[BraveCobra.0.0.0.17295-BraveCobra.0.0.0.17338]"
+        var Author = "DigiPen USA Corporation"
+        var Description = "A template project for 2d games."
+        var IconUrl = "PreReleaseBraveCobra2d[BraveCobra.0.0.0.17295-BraveCobra.0.0.0.17338].icon.png"
+        var DisplayName = "EMPTY 2D\nPROJECT"
+        var SortPriority = "0.0"
+        var VersionId = "BraveCobra.0.0.0.17295-BraveCobra.0.0.0.17338"
+        var EffectiveIconUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/PreReleaseBraveCobra2d%5BBraveCobra.0.0.0.17295-BraveCobra.0.0.0.17338%5D/PreReleaseBraveCobra2d%5BBraveCobra.0.0.0.17295-BraveCobra.0.0.0.17338%5D.icon.png"
+        var EffectiveTemplateUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/PreReleaseBraveCobra2d%5BBraveCobra.0.0.0.17295-BraveCobra.0.0.0.17338%5D/PreReleaseBraveCobra2d%5BBraveCobra.0.0.0.17295-BraveCobra.0.0.0.17338%5D.zerotemplate"
+      }
+    }
+    Cog 
+    {
+      ZeroTemplate 
+      {
+        var Key = "PreReleaseBraveCobra2d[BraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478]/PreReleaseBraveCobra2d[BraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478].zerotemplate"
+        var Date = "7/7/2017"
+        var SKU = "PreReleaseBraveCobra2d"
+        var Tags = ""
+        var TemplateFileName = "PreReleaseBraveCobra2d[BraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478].zerotemplate"
+        var TemplatePath = "PreReleaseBraveCobra2d[BraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478]"
+        var Author = "DigiPen USA Corporation"
+        var Description = "A template project for 2d games."
+        var IconUrl = "PreReleaseBraveCobra2d[BraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478].icon.png"
+        var DisplayName = "EMPTY 2D\nPROJECT"
+        var SortPriority = "0.0"
+        var VersionId = "BraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478"
+        var EffectiveIconUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/PreReleaseBraveCobra2d%5BBraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478%5D/PreReleaseBraveCobra2d%5BBraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478%5D.icon.png"
+        var EffectiveTemplateUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/PreReleaseBraveCobra2d%5BBraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478%5D/PreReleaseBraveCobra2d%5BBraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478%5D.zerotemplate"
+      }
+    }
+    Cog 
+    {
+      ZeroTemplate 
+      {
+        var Key = "PreReleaseBraveCobra2d[BraveCobra.0.0.0.17479]/PreReleaseBraveCobra2d[BraveCobra.0.0.0.17479].zerotemplate"
+        var Date = "7/7/2017"
+        var SKU = "PreReleaseBraveCobra2d"
+        var Tags = ""
+        var TemplateFileName = "PreReleaseBraveCobra2d[BraveCobra.0.0.0.17479].zerotemplate"
+        var TemplatePath = "PreReleaseBraveCobra2d[BraveCobra.0.0.0.17479]"
+        var Author = "DigiPen USA Corporation"
+        var Description = "A template project for 2d games."
+        var IconUrl = "PreReleaseBraveCobra2d[BraveCobra.0.0.0.17479].icon.png"
+        var DisplayName = "EMPTY 2D\nPROJECT"
+        var SortPriority = "0.0"
+        var VersionId = "BraveCobra.0.0.0.17479"
+        var EffectiveIconUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/PreReleaseBraveCobra2d%5BBraveCobra.0.0.0.17479%5D/PreReleaseBraveCobra2d%5BBraveCobra.0.0.0.17479%5D.icon.png"
+        var EffectiveTemplateUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/PreReleaseBraveCobra2d%5BBraveCobra.0.0.0.17479%5D/PreReleaseBraveCobra2d%5BBraveCobra.0.0.0.17479%5D.zerotemplate"
+      }
+    }
+    Cog 
+    {
+      ZeroTemplate 
+      {
+        var Key = "PreReleaseBraveCobra3d[BraveCobra.0.0.0.17295-BraveCobra.0.0.0.17338]/PreReleaseBraveCobra3d[BraveCobra.0.0.0.17295-BraveCobra.0.0.0.17338].zerotemplate"
+        var Date = "7/7/2017"
+        var SKU = "PreReleaseBraveCobra3d"
+        var Tags = ""
+        var TemplateFileName = "PreReleaseBraveCobra3d[BraveCobra.0.0.0.17295-BraveCobra.0.0.0.17338].zerotemplate"
+        var TemplatePath = "PreReleaseBraveCobra3d[BraveCobra.0.0.0.17295-BraveCobra.0.0.0.17338]"
+        var Author = "DigiPen USA Corporation"
+        var Description = "A template project for 3d games."
+        var IconUrl = "PreReleaseBraveCobra3d[BraveCobra.0.0.0.17295-BraveCobra.0.0.0.17338].icon.png"
+        var DisplayName = "EMPTY 3D\nPROJECT"
+        var SortPriority = "0.0"
+        var VersionId = "BraveCobra.0.0.0.17295-BraveCobra.0.0.0.17338"
+        var EffectiveIconUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/PreReleaseBraveCobra3d%5BBraveCobra.0.0.0.17295-BraveCobra.0.0.0.17338%5D/PreReleaseBraveCobra3d%5BBraveCobra.0.0.0.17295-BraveCobra.0.0.0.17338%5D.icon.png"
+        var EffectiveTemplateUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/PreReleaseBraveCobra3d%5BBraveCobra.0.0.0.17295-BraveCobra.0.0.0.17338%5D/PreReleaseBraveCobra3d%5BBraveCobra.0.0.0.17295-BraveCobra.0.0.0.17338%5D.zerotemplate"
+      }
+    }
+    Cog 
+    {
+      ZeroTemplate 
+      {
+        var Key = "PreReleaseBraveCobra3d[BraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478]/PreReleaseBraveCobra3d[BraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478].zerotemplate"
+        var Date = "7/7/2017"
+        var SKU = "PreReleaseBraveCobra3d"
+        var Tags = ""
+        var TemplateFileName = "PreReleaseBraveCobra3d[BraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478].zerotemplate"
+        var TemplatePath = "PreReleaseBraveCobra3d[BraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478]"
+        var Author = "DigiPen USA Corporation"
+        var Description = "A template project for 3d games."
+        var IconUrl = "PreReleaseBraveCobra3d[BraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478].icon.png"
+        var DisplayName = "EMPTY 3D\nPROJECT"
+        var SortPriority = "0.0"
+        var VersionId = "BraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478"
+        var EffectiveIconUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/PreReleaseBraveCobra3d%5BBraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478%5D/PreReleaseBraveCobra3d%5BBraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478%5D.icon.png"
+        var EffectiveTemplateUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/PreReleaseBraveCobra3d%5BBraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478%5D/PreReleaseBraveCobra3d%5BBraveCobra.0.0.0.17339-BraveCobra.0.0.0.17478%5D.zerotemplate"
+      }
+    }
+    Cog 
+    {
+      ZeroTemplate 
+      {
+        var Key = "PreReleaseBraveCobra3d[BraveCobra.0.0.0.17479]/PreReleaseBraveCobra3d[BraveCobra.0.0.0.17479].zerotemplate"
+        var Date = "7/7/2017"
+        var SKU = "PreReleaseBraveCobra3d"
+        var Tags = ""
+        var TemplateFileName = "PreReleaseBraveCobra3d[BraveCobra.0.0.0.17479].zerotemplate"
+        var TemplatePath = "PreReleaseBraveCobra3d[BraveCobra.0.0.0.17479]"
+        var Author = "DigiPen USA Corporation"
+        var Description = "A template project for 3d games."
+        var IconUrl = "PreReleaseBraveCobra3d[BraveCobra.0.0.0.17479].icon.png"
+        var DisplayName = "EMPTY 3D\nPROJECT"
+        var SortPriority = "0.0"
+        var VersionId = "BraveCobra.0.0.0.17479"
+        var EffectiveIconUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/PreReleaseBraveCobra3d%5BBraveCobra.0.0.0.17479%5D/PreReleaseBraveCobra3d%5BBraveCobra.0.0.0.17479%5D.icon.png"
+        var EffectiveTemplateUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/PreReleaseBraveCobra3d%5BBraveCobra.0.0.0.17479%5D/PreReleaseBraveCobra3d%5BBraveCobra.0.0.0.17479%5D.zerotemplate"
+      }
+    }
+    Cog 
+    {
+      ZeroTemplate 
+      {
+        var Key = "Template2dProject[0]/Template2dProject[0].zerotemplate"
+        var Date = "3/30/2015"
+        var SKU = "Template2dProject"
+        var Tags = ""
+        var previewurl = ""
+        var TemplatePath = "Template2dProject[0]"
+        var Author = "DigiPen USA Corporation"
+        var DisplayName = "EMPTY 2D\nPROJECT"
+        var VersionId = "0"
+        var TemplateFileName = "Template2dProject[0].zerotemplate"
+        var Description = "A template project for 2d games."
+        var IconUrl = "Template2dProject[0].icon.png"
+        var SortPriority = "1.0"
+        var EffectiveIconUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/Template2dProject%5B0%5D/Template2dProject%5B0%5D.icon.png"
+        var EffectiveTemplateUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/Template2dProject%5B0%5D/Template2dProject%5B0%5D.zerotemplate"
+      }
+    }
+    Cog 
+    {
+      ZeroTemplate 
+      {
+        var Key = "Template2d[1.0.0.1]/Template2d[1.0.0.1].zerotemplate"
+        var Date = "7/26/2017"
+        var SKU = "Template2d"
+        var Tags = ""
+        var TemplateFileName = "Template2d[1.0.0.1].zerotemplate"
+        var TemplatePath = "Template2d[1.0.0.1]"
+        var Author = "DigiPen USA Corporation"
+        var Description = "A template project for 2d games."
+        var IconUrl = "Template2d[1.0.0.1].icon.png"
+        var DisplayName = "EMPTY 2D\nPROJECT"
+        var SortPriority = "0.0"
+        var VersionId = "1.0.0.1"
+        var EffectiveIconUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/Template2d%5B1.0.0.1%5D/Template2d%5B1.0.0.1%5D.icon.png"
+        var EffectiveTemplateUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/Template2d%5B1.0.0.1%5D/Template2d%5B1.0.0.1%5D.zerotemplate"
+      }
+    }
+    Cog 
+    {
+      ZeroTemplate 
+      {
+        var Key = "Template3dProject[0]/Template3dProject[0].zerotemplate"
+        var Date = "3/30/2015"
+        var SKU = "Template3dProject"
+        var Tags = ""
+        var TemplateFileName = "Template3dProject[0].zerotemplate"
+        var TemplatePath = "Template3dProject[0]"
+        var Author = "DigiPen USA Corporation"
+        var Description = "A template project for 3d games."
+        var IconUrl = "Template3dProject[0].icon.png"
+        var DisplayName = "EMPTY 3D\nPROJECT"
+        var SortPriority = "2.0"
+        var VersionId = "0"
+        var EffectiveIconUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/Template3dProject%5B0%5D/Template3dProject%5B0%5D.icon.png"
+        var EffectiveTemplateUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/Template3dProject%5B0%5D/Template3dProject%5B0%5D.zerotemplate"
+      }
+    }
+    Cog 
+    {
+      ZeroTemplate 
+      {
+        var Key = "Template3d[1.0.0.1]/Template3d[1.0.0.1].zerotemplate"
+        var Date = "7/26/2017"
+        var SKU = "Template3d"
+        var Tags = ""
+        var TemplateFileName = "Template3d[1.0.0.1].zerotemplate"
+        var TemplatePath = "Template3d[1.0.0.1]"
+        var Author = "DigiPen USA Corporation"
+        var Description = "A template project for 3d games."
+        var IconUrl = "Template3d[1.0.0.1].icon.png"
+        var DisplayName = "EMPTY 3D\nPROJECT"
+        var SortPriority = "0.0"
+        var VersionId = "1.0.0.1"
+        var EffectiveIconUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/Template3d%5B1.0.0.1%5D/Template3d%5B1.0.0.1%5D.icon.png"
+        var EffectiveTemplateUri = "https://zerotemplates.s3.us-west-2.amazonaws.com/Template3d%5B1.0.0.1%5D/Template3d%5B1.0.0.1%5D.zerotemplate"
+      }
+    }
+  }
+}

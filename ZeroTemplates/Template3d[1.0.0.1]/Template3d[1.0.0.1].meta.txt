@@ -1,0 +1,13 @@
+{
+  "Date": "7/26/2017",
+  "SKU": "Template3d",
+  "Tags": "",
+  "TemplateFileName": "Template3d[1.0.0.1].zerotemplate",
+  "TemplatePath": "",
+  "Author": "DigiPen USA Corporation",
+  "Description": "A template project for 3d games.",
+  "IconUrl": "https://zerotemplates.s3.us-west-2.amazonaws.com/Template3d%5B1.0.0.1%5D/Template3d%5B1.0.0.1%5D.icon.png",
+  "DisplayName": "EMPTY 3D\\nPROJECT",
+  "SortPriority": "0.0",
+  "VersionId": "1.0.0.1"
+}

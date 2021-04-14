@@ -1,0 +1,13 @@
+{
+  "Date": "8/14/2017",
+  "SKU": "NetworkTemplate",
+  "Tags": "",
+  "TemplateFileName": "NetworkTemplate[1.0.0].zerotemplate",
+  "TemplatePath": "",
+  "Author": "DigiPen USA Corporation",
+  "Description": "A template project for networked games.",
+  "IconUrl": "https://zerotemplates.s3.us-west-2.amazonaws.com/NetworkTemplate%5B1.0.0%5D/NetworkTemplate%5B1.0.0%5D.icon.png",
+  "DisplayName": "NETWORKED\\nPROJECT",
+  "SortPriority": "0.0",
+  "VersionId": "1.0.0"
+}

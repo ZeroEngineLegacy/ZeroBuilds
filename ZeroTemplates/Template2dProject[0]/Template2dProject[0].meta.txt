@@ -1,0 +1,14 @@
+{
+  "Date": "3/30/2015",
+  "SKU": "Template2dProject",
+  "Tags": "",
+  "previewurl": "",
+  "TemplatePath": "",
+  "Author": "DigiPen USA Corporation",
+  "DisplayName": "EMPTY 2D\\nPROJECT",
+  "VersionId": "0",
+  "TemplateFileName": "Template2dProject[0].zerotemplate",
+  "Description": "A template project for 2d games.",
+  "IconUrl": "https://zerotemplates.s3.us-west-2.amazonaws.com/Template2dProject%5B0%5D/Template2dProject%5B0%5D.icon.png",
+  "SortPriority": "1.0"
+}
